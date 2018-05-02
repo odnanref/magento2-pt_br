@@ -22,7 +22,7 @@
 "The fewest you may purchase is %1.","O mínimo que você pode comprar é %1.",module,Magento_CatalogInventory
 "Please correct the quantity for some products.","Por favor, corrija a quantidade para alguns produtos.",module,Magento_CatalogInventory
 "The most you may purchase is %1.","O máximo que você pode comprar é %1.",module,Magento_CatalogInventory
-"We don't have as many \"%1\" as you requested.","We don't have as many \"%1\" as you requested.",module,Magento_CatalogInventory
+"We don't have as many \"%1\" as you requested.","Não temos tantas \"%1\" quanto você solicitou.",module,Magento_CatalogInventory
 "We don't have as many ""%1"" as you requested, but we'll back order the remaining %2.","Não temos o total de ""%1"" que você solicitou, mas ainda restam disponíveis %2.",module,Magento_CatalogInventory
 "We don't have ""%1"" in the requested quantity, so we'll back order the remaining %2.","Não temos ""%1"" na quantidade solicitada, então vamos disponibilizar os %2 restantes.",module,Magento_CatalogInventory
 "You can buy %1 only in quantities of %2 at a time.","Você pode comprar %1 somente em quantidades de %2 de cada vez.",module,Magento_CatalogInventory

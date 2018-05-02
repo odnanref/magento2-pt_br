@@ -478,4 +478,10 @@ Addresses,Endereços,module,Magento_Customer
 "Edit Account Information","Editar informações da conta",module,Magento_Customer
 "Password forgotten","Esqueci a senha",module,Magento_Customer
 "My Dashboard","Meu painel de controle",module,Magento_Customer
-"You are signed out.","You are signed out.",module,Magento_Customer
+"You are signed out.","Você está desconectado.",module,Magento_Customer
+"Password Strength","Qualidade da Senha",module,Magento_Customer
+"Reset My Password","Redifinir a minha Senha",module,Magento_Customer
+"Strong","Forte",module,Magento_Customer
+"Very Strong","Muito Forte",module,Magento_Customer
+"Weak","Fraca",module,Magento_Customer
+"No Password","Sem Senha",module,Magento_Customer

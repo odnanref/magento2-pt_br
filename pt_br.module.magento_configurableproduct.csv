@@ -125,3 +125,5 @@ Visible,Visível,module,Magento_ConfigurableProduct
 Scope,Escopo,module,Magento_ConfigurableProduct
 Searchable,Pesquisável,module,Magento_ConfigurableProduct
 Comparable,Comparável,module,Magento_ConfigurableProduct
+"Special Price","Preço Especial",module,Magento_ConfigurableProduct
+"Enable Product","Activar Produto",module,Magento_ConfigurableProduct

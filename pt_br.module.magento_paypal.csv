@@ -1,4 +1,4 @@
-"Billing Agreements","Billing Agreements",module,Magento_Paypal
+"Billing Agreements","Acordos de Pagamento",module,Magento_Paypal
 ID,ID,module,Magento_Paypal
 Email,E-mail,module,Magento_Paypal
 "First Name",Nome,module,Magento_Paypal
@@ -11,7 +11,7 @@ Updated,Atualizado,module,Magento_Paypal
 Back,Voltar,module,Magento_Paypal
 "Are you sure you want to do this?","Você tem que deseja fazer isso?",module,Magento_Paypal
 Cancel,Cancelar,module,Magento_Paypal
-"Billing Agreement #%1","Billing Agreement #%1",module,Magento_Paypal
+"Billing Agreement #%1","Acordo de Pagamento #%1",module,Magento_Paypal
 "General Information","Informações gerais",module,Magento_Paypal
 "Related Orders","Pedidos relacionados",module,Magento_Paypal
 Order,Pedido,module,Magento_Paypal
@@ -20,11 +20,11 @@ Purchased,Comprado,module,Magento_Paypal
 "Ship-to Name","Nome de Entrega",module,Magento_Paypal
 "Order Total","Total do Pedido",module,Magento_Paypal
 "Purchase Point","Ponto de compra",module,Magento_Paypal
-"Billing Agreement View","Billing Agreement View",module,Magento_Paypal
-"View Transaction Details","View Transaction Details",module,Magento_Paypal
-"Reference Information","Reference Information",module,Magento_Paypal
-"Transaction Information","Transaction Information",module,Magento_Paypal
-"PayPal Fee Information","PayPal Fee Information",module,Magento_Paypal
+"Billing Agreement View","Vista de Acordos de Pagamento",module,Magento_Paypal
+"View Transaction Details","Ver Detalhes de Transacção",module,Magento_Paypal
+"Reference Information","Informação de Referência",module,Magento_Paypal
+"Transaction Information","Informação de Transacção",module,Magento_Paypal
+"PayPal Fee Information","PayPal Taxa Informação",module,Magento_Paypal
 "PayPal Settlement Reports","PayPal Settlement Reports",module,Magento_Paypal
 "We are connecting to the PayPal SFTP server to retrieve new reports. Are you sure you want to continue?","We are connecting to the PayPal SFTP server to retrieve new reports. Are you sure you want to continue?",module,Magento_Paypal
 "Fetch Updates","Fetch Updates",module,Magento_Paypal

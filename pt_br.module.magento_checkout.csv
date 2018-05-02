@@ -133,3 +133,17 @@ Payment,Pagamento,module,Magento_Checkout
 "Not yet calculated","Ainda não calculado",module,Magento_Checkout
 "We received your order!","Recebemos o seu pedido!",module,Magento_Checkout
 "Thank you for your purchase!","Obrigado por sua compra!",module,Magento_Checkout
+"Review & Payments",Revisão e Pagamentos,module,Magento_Checkout
+"Payment Method:","Método de pagamento:",module,Magento_Checkout
+"Edit","Editar",module,Magento_Checkout
+"Place Order","Colocar pedido",module,Magento_Checkout
+"Order Summary","Resumo do pedido",module,Magento_Checkout
+"Print receipt","Imprimir recibo",module,Magento_Checkout
+"View and Edit Cart","Ver e Editar Carrinho",module,Magento_Checkout
+"Are you sure you would like to remove this item from the shopping cart?","Tem a certeza que deseja remover este item do carrinho?",module,Magento_Checkout
+"My billing and shipping address are the same","A morada de cobrança e entrega são as mesmas.",module,Magento_Checkout
+"Ship To:","Entregar para:",module,Magento_Checkout
+"Estimated Total","Total estimado",module,Magento_Checkout
+"You can create an account after checkout.","Pode criar uma conta após a compra.",module,Magento_Checkout
+"You can track your order status by creating an account.","Pode seguir os dados do seu pedido criando uma conta.",module,Magento_Checkout
+"Forgot Your Password?","Esqueceu a sua Senha?",module,Magento_Checkout

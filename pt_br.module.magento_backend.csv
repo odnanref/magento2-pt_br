@@ -289,11 +289,11 @@ Loading...,Carregando...,module,Magento_Backend
 Services,Serviços,module,Magento_Backend
 Advanced,Avançado,module,Magento_Backend
 "Disable Modules Output","Disable Modules Output",module,Magento_Backend
-"Store Email Addresses","Store Email Addresses",module,Magento_Backend
-"Custom Email 1","Custom Email 1",module,Magento_Backend
+"Store Email Addresses","Endereços de Email da Loja",module,Magento_Backend
+"Custom Email 1","Email customizado 1",module,Magento_Backend
 "Sender Email","E-mail do remetente",module,Magento_Backend
 "Sender Name","Nome do remetente",module,Magento_Backend
-"Custom Email 2","Custom Email 2",module,Magento_Backend
+"Custom Email 2","Email cusotmizado 2",module,Magento_Backend
 "General Contact","Contato geral",module,Magento_Backend
 "Sales Representative","Representante de vendas",module,Magento_Backend
 "Customer Support","Suporte ao cliente",module,Magento_Backend
@@ -432,3 +432,4 @@ Description,Descrição,module,Magento_Backend
 Tags,Tags,module,Magento_Backend
 "<h1 class=""page-heading"">404 Error</h1><p>Page not found.</p>","<h1 class=""page-heading""> erro 404</h1> <p>Página não encontrada.</p>",module,Magento_Backend
 "Community Edition","Community Edition",module,Magento_Backend
+"All Stores","Todas as Lojas",module,Magento_Backend

@@ -19,16 +19,16 @@ Currency,Moeda,module,Magento_Directory
 "Your current currency is: %1.","Sua moeda atual: %1.",module,Magento_Directory
 Continue,Próximo,module,Magento_Directory
 "Currency Update Warnings","Currency Update Warnings",module,Magento_Directory
-"Currency Setup","Currency Setup",module,Magento_Directory
-"Currency Options","Currency Options",module,Magento_Directory
+"Currency Setup","Configurações Monetárias",module,Magento_Directory
+"Currency Options","Opções Monetárias",module,Magento_Directory
 "Base Currency","Moeda base",module,Magento_Directory
 "
                         Base currency is used for all online payment transactions. If you have more than one store view, the base currency scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"").
                     ","
                         Base currency is used for all online payment transactions. If you have more than one store view, the base currency scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"").
                     ",module,Magento_Directory
-"Default Display Currency","Default Display Currency",module,Magento_Directory
-"Allowed Currencies","Allowed Currencies",module,Magento_Directory
+"Default Display Currency","Moeda exibida por defeito",module,Magento_Directory
+"Allowed Currencies","Moedas permitidas",module,Magento_Directory
 Webservicex,Webservicex,module,Magento_Directory
 "Connection Timeout in Seconds","Connection Timeout in Seconds",module,Magento_Directory
 "Scheduled Import Settings","Scheduled Import Settings",module,Magento_Directory
@@ -40,9 +40,9 @@ Enabled,Habilitado,module,Magento_Directory
 Frequency,Frequência,module,Magento_Directory
 Service,Serviço,module,Magento_Directory
 "Start Time","Hora de Início",module,Magento_Directory
-"Installed Currencies","Installed Currencies",module,Magento_Directory
-"Zip/Postal Code is Optional for","Zip/Postal Code is Optional for",module,Magento_Directory
-"State Options","State Options",module,Magento_Directory
-"State is Required for","State is Required for",module,Magento_Directory
+"Installed Currencies","Moedas instaladas",module,Magento_Directory
+"Zip/Postal Code is Optional for","Zip/Código postal é opcional para",module,Magento_Directory
+"State Options","Opções de estado",module,Magento_Directory
+"State is Required for","Estado é necessário para",module,Magento_Directory
 "Allow to Choose State if It is Optional for Country","Allow to Choose State if It is Optional for Country",module,Magento_Directory
-"Weight Unit","Weight Unit",module,Magento_Directory
+"Weight Unit","Unidade de peso",module,Magento_Directory

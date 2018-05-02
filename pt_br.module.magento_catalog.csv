@@ -569,18 +569,18 @@ Thumbnail,Miniatura,module,Magento_Catalog
 "Use {{name}} and {{description}} as Product Name and Product Description placeholders","Use {{name}} and {{description}} as Product Name and Product Description placeholders",module,Magento_Catalog
 Storefront,Storefront,module,Magento_Catalog
 "List Mode","Modo de lista",module,Magento_Catalog
-"Products per Page on Grid Allowed Values","Products per Page on Grid Allowed Values",module,Magento_Catalog
+"Products per Page on Grid Allowed Values","Produtos por página em valores permitidos pela grelha",module,Magento_Catalog
 Comma-separated.,"Separados por vírgula.",module,Magento_Catalog
-"Products per Page on Grid Default Value","Products per Page on Grid Default Value",module,Magento_Catalog
+"Products per Page on Grid Default Value","Produtos por página nos valores padrão da grelha",module,Magento_Catalog
 "Must be in the allowed values list","Deve estar na lista de valores permitidos",module,Magento_Catalog
-"Products per Page on List Allowed Values","Products per Page on List Allowed Values",module,Magento_Catalog
-"Products per Page on List Default Value","Products per Page on List Default Value",module,Magento_Catalog
-"Use Flat Catalog Category","Use Flat Catalog Category",module,Magento_Catalog
-"Use Flat Catalog Product","Use Flat Catalog Product",module,Magento_Catalog
+"Products per Page on List Allowed Values","Produtos por página nos valores permitidos na lista",module,Magento_Catalog
+"Products per Page on List Default Value","Produtos por página nos valores padrão da lista",module,Magento_Catalog
+"Use Flat Catalog Category","Usar Categoria de Catalogo Plana",module,Magento_Catalog
+"Use Flat Catalog Product","Usar Categoria Plana de Produto",module,Magento_Catalog
 "Product Listing Sort by","Listagem de produto, ordenar por",module,Magento_Catalog
 "Allow All Products per Page","Permitir todos os produtos por página",module,Magento_Catalog
 "Whether to show ""All"" option in the ""Show X Per Page"" dropdown","Whether to show ""All"" option in the ""Show X Per Page"" dropdown",module,Magento_Catalog
-"Allow Dynamic Media URLs in Products and Categories","Allow Dynamic Media URLs in Products and Categories",module,Magento_Catalog
+"Allow Dynamic Media URLs in Products and Categories","Permitir URL's dinâmicos de Media em Produtos e Categorias",module,Magento_Catalog
 "E.g. {{media url=""path/to/image.jpg""}} {{skin url=""path/to/picture.gif""}}. Dynamic directives parsing impacts catalog performance.","E.g. {{media url=""path/to/image.jpg""}} {{skin url=""path/to/picture.gif""}}. Dynamic directives parsing impacts catalog performance.",module,Magento_Catalog
 "Product Image Placeholders","Espaços reservados da imagem de produto",module,Magento_Catalog
 "Search Engine Optimization","Otimização de busca (SEO)",module,Magento_Catalog
@@ -597,26 +597,26 @@ Comma-separated.,"Separados por vírgula.",module,Magento_Catalog
 "Time Format","Formato de hora",module,Magento_Catalog
 "Year Range","Intervalo de ano",module,Magento_Catalog
 "Please use a four-digit year format.","Por favor, use o formato de quatro dígitos no ano.",module,Magento_Catalog
-"Product Image Watermarks","Product Image Watermarks",module,Magento_Catalog
-"Watermark Default Size","Watermark Default Size",module,Magento_Catalog
-"Watermark Opacity, Percent","Watermark Opacity, Percent",module,Magento_Catalog
+"Product Image Watermarks","Marca de água de imagem de produtos",module,Magento_Catalog
+"Watermark Default Size","Tamanho padrão de Marca de água",module,Magento_Catalog
+"Watermark Opacity, Percent","Opacidade da Marca de Água, Percentagem",module,Magento_Catalog
 Watermark,"Marca d'água",module,Magento_Catalog
 "Watermark Position","Posição da marca d'água",module,Magento_Catalog
-"Use Static URLs for Media Content in WYSIWYG for Catalog","Use Static URLs for Media Content in WYSIWYG for Catalog",module,Magento_Catalog
+"Use Static URLs for Media Content in WYSIWYG for Catalog","Usar conteúdos estáticos para conteúdo media em WYSIWYG para Catalogo",module,Magento_Catalog
 "This applies only to catalog products and categories. Media content will be inserted into the editor as a static URL. Media content is not updated if the system configuration base URL changes.","This applies only to catalog products and categories. Media content will be inserted into the editor as a static URL. Media content is not updated if the system configuration base URL changes.",module,Magento_Catalog
 "Top Level Category","Top Level Category",module,Magento_Catalog
-"Product Flat Data","Product Flat Data",module,Magento_Catalog
+"Product Flat Data","Produto Dados planos",module,Magento_Catalog
 "Reorganize EAV product structure to flat structure","Reorganize EAV product structure to flat structure",module,Magento_Catalog
-"Category Flat Data","Category Flat Data",module,Magento_Catalog
+"Category Flat Data","Categoria dados planos",module,Magento_Catalog
 "Reorganize EAV category structure to flat structure","Reorganize EAV category structure to flat structure",module,Magento_Catalog
 "Indexed category/products association","Indexed category/products association",module,Magento_Catalog
 "Product Categories","Categorias de Produto",module,Magento_Catalog
 "Indexed product/categories association","Indexed product/categories association",module,Magento_Catalog
 "Product Price","Preço do Produto",module,Magento_Catalog
-"Index product prices","Index product prices",module,Magento_Catalog
+"Index product prices","Indexar preço de produtos",module,Magento_Catalog
 "Product EAV","Produto EAV",module,Magento_Catalog
 "Index product EAV","Index product EAV",module,Magento_Catalog
-"Catalog New Products List","Catalog New Products List",module,Magento_Catalog
+"Catalog New Products List","Catalogo Novo Produtos Lista",module,Magento_Catalog
 "List of Products that are set as New","Lista de produtos definidos como novo",module,Magento_Catalog
 "Display Type","Tipo de Exibição",module,Magento_Catalog
 "All products - recently added products, New products - products marked as new","Todos os produtos - produtos recentemente adicionados, novos produtos - produtos marcados como novo",module,Magento_Catalog
@@ -658,3 +658,6 @@ Disable,Desabilitado,module,Magento_Catalog
 none,nenhum,module,Magento_Catalog
 Overview,"Visão geral",module,Magento_Catalog
 Details,Detalhes,module,Magento_Catalog
+"Advanced Pricing","Preço Avançado",module,Magento_Catalog
+"Special Price From","Preço Especial de",module,Magento_Catalog
+"Customer Group Price","Preço por Grupo de Clientes",module,Magento_Catalog
